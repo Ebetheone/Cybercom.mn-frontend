@@ -1,0 +1,362 @@
+[
+  {
+    "title": "Компьютер",
+    "subMenu": [
+      {
+        "title": "Суурин компьютер",
+        "subMenu": []
+      },
+      {
+        "title": "Дэлгэц",
+        "subMenu": []
+      },
+      {
+        "title": "Зөөврийн компьютер",
+        "subMenu": []
+      },
+      {
+        "title": "All in One",
+        "subMenu": []
+      },
+      {
+        "title": "Сервер",
+        "subMenu": []
+      },
+      {
+        "title": "Таблет",
+        "subMenu": []
+      }
+    ]
+  },
+  {
+    "title": "UGREEN Холбогч кабель | Шилжүүлэгч",
+    "subMenu": [
+      {
+        "title": "Холбогч кабель",
+        "subMenu": []
+      },
+      {
+        "title": "Шилжүүлэгч",
+        "subMenu": []
+      }
+    ]
+  },
+  {
+    "title": "Компьютерийн эд анги",
+    "subMenu": [
+      {
+        "title": "Эх Хавтан",
+        "subMenu": []
+      },
+      {
+        "title": "Процессор /CPU/",
+        "subMenu": []
+      },
+      {
+        "title": "Сэнс /CPU/",
+        "subMenu": []
+      },
+      {
+        "title": "Санах Ой",
+        "subMenu": []
+      },
+      {
+        "title": "Хард Диск",
+        "subMenu": []
+      },
+      {
+        "title": "График Карт",
+        "subMenu": []
+      },
+      {
+        "title": "Гар Маус /Combo/",
+        "subMenu": []
+      },
+      {
+        "title": "Гар /keyboard/",
+        "subMenu": []
+      },
+      {
+        "title": "Маус /Mouse/ +",
+        "subMenu": []
+      },
+      {
+        "title": "Компьютерийн Кэйс +",
+        "subMenu": []
+      },
+      {
+        "title": "Тэжээлийн Блок",
+        "subMenu": []
+      },
+      {
+        "title": "Спикер",
+        "subMenu": []
+      },
+      {
+        "title": "Чихэвч",
+        "subMenu": []
+      },
+      {
+        "title": "Web Cam",
+        "subMenu": []
+      },
+      {
+        "title": "Микрофон",
+        "subMenu": []
+      },
+      {
+        "title": "Gaming Gear",
+        "subMenu": []
+      }
+    ]
+  },
+  {
+    "title": "Оффисын төхөөрөмж ",
+    "subMenu": [
+      {
+        "title": "Хэвлэгч | Хувилагч",
+        "subMenu": []
+      },
+      {
+        "title": "Хэвлэгч | Хувилагчийн Хор ",
+        "subMenu": []
+      },
+      {
+        "title": "Утасны Аппарат",
+        "subMenu": []
+      },
+      {
+        "title": "Проектор +",
+        "subMenu": []
+      },
+      {
+        "title": "Скайнер",
+        "subMenu": []
+      },
+      {
+        "title": "Тог Баригч +",
+        "subMenu": []
+      },
+      {
+        "title": "Дуу Хураагуур",
+        "subMenu": []
+      },
+      {
+        "title": "Цаас Устгагч",
+        "subMenu": []
+      },
+      {
+        "title": "Цаг Бүртгэлийн Төхөөрөмж",
+        "subMenu": []
+      },
+      {
+        "title": "Ухаалаг Дэлгэц +",
+        "subMenu": []
+      },
+      {
+        "title": "Олон Залгуур",
+        "subMenu": []
+      },
+      {
+        "title": "Battery | Adapter",
+        "subMenu": []
+      }
+    ]
+  },
+  {
+    "title": "Сүлжээний төхөөрөмж",
+    "subMenu": [
+      {
+        "title": "Wireless Networking",
+        "subMenu": []
+      },
+      {
+        "title": "Wired Networking ",
+        "subMenu": []
+      },
+      {
+        "title": "VPN Router",
+        "subMenu": []
+      },
+      {
+        "title": "Firewall",
+        "subMenu": []
+      },
+      {
+        "title": "Rack +",
+        "subMenu": []
+      },
+      {
+        "title": "Media Converter",
+        "subMenu": []
+      },
+      {
+        "title": "Сүлжээний Кабель | RJ45",
+        "subMenu": []
+      },
+      {
+        "title": "Дагалдах хэрэгсэл ",
+        "subMenu": []
+      }
+    ]
+  },
+  {
+    "title": "Хадгалах төхөөрөмж",
+    "subMenu": [
+      {
+        "title": "NAS | Storage",
+        "subMenu": []
+      },
+      {
+        "title": "Хард Диск ",
+        "subMenu": []
+      },
+      {
+        "title": "Зөөврийн Хард Диск",
+        "subMenu": []
+      },
+      {
+        "title": "Зөөврийн M.2 | SSD Хард Диск",
+        "subMenu": []
+      },
+      {
+        "title": "Флаш Диск",
+        "subMenu": []
+      },
+      {
+        "title": "Memory Card",
+        "subMenu": []
+      }
+    ]
+  },
+  {
+    "title": "Дижитал камер +",
+    "subMenu": [
+      {
+        "title": "Дижитал камер",
+        "subMenu": []
+      },
+      {
+        "title": "Линз",
+        "subMenu": []
+      },
+      {
+        "title": "Speedlight",
+        "subMenu": []
+      },
+      {
+        "title": "SD Карт",
+        "subMenu": []
+      },
+      {
+        "title": "Цүнх",
+        "subMenu": []
+      },
+      {
+        "title": "Камерийн хөл",
+        "subMenu": []
+      },
+      {
+        "title": "Дагалдах хэрэгсэл ",
+        "subMenu": []
+      }
+    ]
+  },
+  {
+    "title": "Хяналтын камер",
+    "subMenu": [
+      {
+        "title": "IP Camera",
+        "subMenu": []
+      },
+      {
+        "title": "NVR Бичигч төхөөрөмж",
+        "subMenu": []
+      }
+    ]
+  },
+  {
+    "title": "Пос төхөөрөмж",
+    "subMenu": [
+      {
+        "title": "POS Принтер",
+        "subMenu": []
+      },
+      {
+        "title": "POS Принтерийн Цаас",
+        "subMenu": []
+      },
+      {
+        "title": "Barcode Скайнер",
+        "subMenu": []
+      },
+      {
+        "title": "Дагалдах хэрэгсэл",
+        "subMenu": []
+      }
+    ]
+  },
+  {
+    "title": "Бусад бүтээгдэхүүн",
+    "subMenu": [
+      {
+        "title": "TV Тогтоогч",
+        "subMenu": []
+      },
+      {
+        "title": "Гар Утас",
+        "subMenu": []
+      },
+      {
+        "title": "Байршил тогтоогч",
+        "subMenu": []
+      },
+      {
+        "title": "Бусад",
+        "subMenu": []
+      }
+    ]
+  },
+  {
+    "title": "Програм хангамж ",
+    "subMenu": [
+      {
+        "title": "Системийн ",
+        "subMenu": []
+      },
+      {
+        "title": "Хэрэглээний ",
+        "subMenu": []
+      },
+      {
+        "title": "Хамгаалалтын",
+        "subMenu": []
+      },
+      {
+        "title": "Мэргэжлийн ",
+        "subMenu": []
+      }
+    ]
+  },
+  {
+    "title": "Дагалдах хэрэгсэл",
+    "subMenu": [
+      {
+        "title": "Суурин компьютерийн дагалдах хэрэгсэл",
+        "subMenu": []
+      },
+      {
+        "title": "Дэлгэцийн дагалдах хэрэгсэл",
+        "subMenu": []
+      },
+      {
+        "title": "Зөөврийн компьютерийн дагалдах хэрэгсэл",
+        "subMenu": []
+      },
+      {
+        "title": "Серверийн дагалдах хэрэгсэл",
+        "subMenu": []
+      }
+    ]
+  }
+]
